@@ -1,0 +1,2 @@
+# docit
+Document everything
