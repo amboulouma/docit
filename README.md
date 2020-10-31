@@ -1,2 +1,2 @@
 # docit
-Document everything
+Documenting everything
